@@ -1,7 +1,7 @@
-.container-fluid{
-    background-color: #eee;
-}
 .block {
-    background-color: #ddd;
+    background-color: #eee;
     border: 1px solid #ccc;
+}
+hr{
+    border-color: #ccc;
 }
