@@ -10,3 +10,7 @@ img{
 .table-striped>tbody>tr:nth-child(odd)>th {
     background-color: #eee;
 }
+.btn-primary{
+    background-color: #ff7c7c;
+    border-color: #ff4848;
+}
